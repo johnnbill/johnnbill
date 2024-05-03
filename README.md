@@ -2,7 +2,7 @@
 <div align="justify">
 
 <!-- Profile -->
-<p align="left"><strong><samp>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</samp></strong></p>
+<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
       <b>
@@ -18,7 +18,7 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌</samp></strong></p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
 
@@ -42,7 +42,7 @@ solutions. Let's connect and collaborate on exciting projects to make
 a positive impact!
 
 
-Languages and Tools:
+#### Languages and Tools:
 
 - **Python**
 - **PHP**
