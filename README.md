@@ -8,7 +8,7 @@
       <b>
         Hello There 👋
       <br>
-        I'm Johnn, a Student, I am a developer & an open-source person.
+        I'm Johnn a Student, I am a developer & an open-source person.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=03C925FF&center=true&width=410&height=45&lines=I'm+a+tech+enthusiast+who+loves+to+learn.">
